@@ -521,3 +521,5 @@ ASALocalRun/
 
 
 # End of https://www.gitignore.io/api/macos,linux,rider,windows,visualstudio,jetbrains+all,visualstudiocode
+
+WebDevDocker/output/
